@@ -2,6 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
+|[`g4.8pre-240-g254da4b76`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.8pre-240-g254da4b76/gzdoom-g4.8pre-240-g254da4b76.zip)|`fe238d80a88ec2ce3db0b812108f5c7f7be5e825ab0d7e1738701f3c702b0f80`|
 |[`3.88b`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/3.88b/lzdoom-3.88b.zip)|`6a8c01c14a1cde596eed18610ddda51fee5419d481c5af5d6149ec0524cb6645`|
 |[`g4.8pre-223-ge6184ccb9`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.8pre-223-ge6184ccb9/gzdoom-g4.8pre-223-ge6184ccb9.zip)|`d9e809bce589914098b06f5d4a87274b4c38e2ef4fdc6c2753e64a3b106644bd`|
 |[`g4.8pre-203-ga9eaae074`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.8pre-203-ga9eaae074/gzdoom-g4.8pre-203-ga9eaae074.zip)|`061fe207cf9e29f3a9c7cf3857e1bdfdc1a8fd5961f755f5ff6a4f3f00cf73ff`|
