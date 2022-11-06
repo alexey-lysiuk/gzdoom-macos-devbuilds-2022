@@ -2,6 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
+|[`g4.9.0a`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.9.0a/gzdoom-g4.9.0a.zip)|`c706d4f1f65cba7afbd7e6fb40ff13e71591988ba01134df9c8289b7aee2fb19`|
 |[`g4.9pre-351-g7d8141782`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.9pre-351-g7d8141782/gzdoom-g4.9pre-351-g7d8141782.zip)|`8bc8c8ee3f29fd2032513ced5ba389430eb076bec96b261de5155fc892d39241`|
 |[`g4.9pre-327-gef887403c`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.9pre-327-gef887403c/gzdoom-g4.9pre-327-gef887403c.zip)|`703444c0f9de87cb2ece43b4790d4146b3364ba65f3e4bde127f0ad823647f1f`|
 |[`g4.9pre-308-g80a31b074`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.9pre-308-g80a31b074/gzdoom-g4.9pre-308-g80a31b074.zip)|`1cd64a9d104ca4c66ddf237a81ac5177e3e4b54c863c6a4ec7842212be3a8ca3`|
